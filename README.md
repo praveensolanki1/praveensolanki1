@@ -1,7 +1,16 @@
-### Hi there 👋
+ Hi there 👋
+
+
+ 
 🔭 I’m currently working on Highly scalable web applications.
+
+
+
 👯 I’m looking to collaborate on organizational specifics needs and their requirements.
- 📫 You can reach me via email: psolanki6503@gmail.com
+
+
+
+📫 You can reach me via email: psolanki6503@gmail.com
  
 
 <!--
