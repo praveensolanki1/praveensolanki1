@@ -11,7 +11,8 @@
 
 
 📫 You can reach me via email: psolanki6503@gmail.com
- 
+
+ ![](https://komarev.com/ghpvc/?username=praveensolanki1&color=#dc143c&style=plastic)
 
 <!--
 **praveensolanki1/praveensolanki1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
